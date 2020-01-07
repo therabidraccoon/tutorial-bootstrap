@@ -1,0 +1,14 @@
+.alert-success.custom{
+    background-color: greenyellow;
+    width: 60%;
+}
+
+.custom-esempio-responsive {
+    color: blue;
+}
+
+@media (max-width: 900px) { 
+    .custom-esempio-responsive {
+        color: yellow;
+    }
+ }
